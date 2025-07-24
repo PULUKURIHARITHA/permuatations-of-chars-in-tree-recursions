@@ -10,3 +10,31 @@ def permute(s,bucket=' '):
 text=input("enter a name/word:")
 print("possibilities of combinations......")
 permute(text)
+
+O/P:-
+enter a name/word:abcd
+possibilities of combinations......
+abcd
+ abdc
+ acbd
+ acdb
+ adbc
+ adcb
+ bacd
+ badc
+ bcad
+ bcda
+ bdac
+ bdca
+ cabd
+ cadb
+ cbad
+ cbda
+ cdab
+ cdba
+ dabc
+ dacb
+ dbac
+ dbca
+ dcab
+ dcba
